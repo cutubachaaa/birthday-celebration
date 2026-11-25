@@ -147,13 +147,11 @@ export const HeroSection = () => {
 
         <div className="mt-2 xs:mt-4 sm:mt-6">
           <div className="h-px w-20 bg-[#9C7A3F]" />
-          <p className="hero-body mt-3 xs:mt-4 sm:mt-6 max-w-sm sm:max-w-sm text-base xs:text-lg sm:text-base leading-[1.65] text-[#2c2c26]">
-            Wishing the sweetest soul the most special Happy Birthday! 🥹💗
+          <p className="hero-body mt-3 xs:mt-4 sm:mt-6 max-w-sm sm:max-w-sm text-base xs:text-lg sm:text-base leading-[1.65] text-[#2c2c26]">Wishing the sweetest soul the most special Happy Birthday! 🥹💗
 
 May the charm of your eyes let even you see just how much light you carry within you. May the honey of your voice be showered upon you as luck, making every day a little sweeter. May you keep laughing, smiling, and gracefully walking towards a brighter future, accomplishing every dream your heart holds.
 
-Happy Birthday, My Twinnieee! 🫂💕
-          </p>
+Happy Birthday, My Twinnieee! 🫂💕</p>
         </div>
       </div>
 
