@@ -60,7 +60,7 @@ export const HeroSection = () => {
 
       {/* Top row: quiet date stamp */}
       <div className="hero-mono flex items-center justify-between px-6 pt-5 text-[11px] uppercase tracking-[0.25em] text-[#8A8A80] sm:px-14 sm:pt-8 z-20">
-        <span>Aug 5</span>
+        <span>Nov 30</span>
       </div>
 
       {/* Headline & content — film trail positioned between headline and text on mobile */}
@@ -70,7 +70,7 @@ export const HeroSection = () => {
           <br />
           <span className="font-bold">Birthday</span>
           <br/>
-          <span className="font-bold mt-1 mb-2 text-amber-500">Sweety</span>
+          <span className="font-bold mt-1 mb-2 text-amber-500">Vani Kashyap</span>
         </h1>
 
         {/* Mobile film trail — continuous film strip with zero space between pics and clear separation from headline */}
@@ -148,7 +148,11 @@ export const HeroSection = () => {
         <div className="mt-2 xs:mt-4 sm:mt-6">
           <div className="h-px w-20 bg-[#9C7A3F]" />
           <p className="hero-body mt-3 xs:mt-4 sm:mt-6 max-w-sm sm:max-w-sm text-base xs:text-lg sm:text-base leading-[1.65] text-[#2c2c26]">
-            wishing you a day filled with love, laughter, and all the happiness your heart can hold. May this year bring you endless joy and unforgettable memories. Happy Birthday!
+            Wishing the sweetest soul the most special Happy Birthday! 🥹💗
+
+May the charm of your eyes let even you see just how much light you carry within you. May the honey of your voice be showered upon you as luck, making every day a little sweeter. May you keep laughing, smiling, and gracefully walking towards a brighter future, accomplishing every dream your heart holds.
+
+Happy Birthday, My Twinnieee! 🫂💕
           </p>
         </div>
       </div>

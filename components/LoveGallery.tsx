@@ -37,16 +37,16 @@ const images = [
 ];
 
 const captions = [
-  "Cutie 🥹",
-  "Baddie 😎",
-  "Pretty ✨",
-  "My Love 🤍",
-  "Sunshine ☀️",
-  "Angel 🪽",
-  "Beautiful 🌸",
-  "Dream Girl 💫",
-  "Queen 👑",
-  "Always You 🫶",
+  "Cutuieee Ji 🥰",
+  "Shree Ji 🦚",
+  "PreetYOUieeee ✨",
+  "Twinnieee 💖",
+  "BESTEST GIRL ♥️",
+  "Nazuk Kali 💐",
+  "Sweetest Soul 🌸",
+  "Favieee Girl 🫶🏻",
+  "Princess 👸🏻",
+  "Always You ❤️‍🩹"
 ];
 
 const positions = [
