@@ -38,40 +38,41 @@ type NoteData = {
   id: string;
   title: string;
   text: string;
-  accent: string; // hex, drives wing color + fold mark
+  accent: string;
+  _id?: string;
 };
 
 const DEFAULT_NOTES: NoteData[] = [
   {
-    id: "n1",
-    title: "01",
-    text: "Every butterfly escapes... except me. I've been happily stuck with you since day one. 🤍",
-    accent: "#D98E7E",
+    "id": "n1",
+    "title": "01",
+    "text": "Every butterfly escapes... except me. I've been happily in love with you, Sweety, since day one. 🤍",
+    "accent": "#D98E7E"
   },
   {
-    id: "n2",
-    title: "02",
-    text: "Is butterfly ki tarah meri har khushi ka raasta bhi aakhir tum tak hi aakar rukta hai. 🫶",
-    accent: "#C9A15E",
+    "id": "n2",
+    "title": "02",
+    "text": "Is butterfly ki tarah meri har khushi ka raasta bhi aakhir aap tak hi aakar rukta hai, Shree ji. 🦚💖",
+    "accent": "#C9A15E"
   },
   {
-    id: "n3",
-    title: "03",
-    text: "Tumne butterfly ko touch kiya... aur meri heartbeat phir se skip kar gayi. 😭❤️",
-    accent: "#7E9C68",
+    "id": "n3",
+    "title": "03",
+    "text": "Awleee, no cry cry. Huggieee for youuu 😭🫂♥️",
+    "accent": "#7E9C68"
   },
   {
-    id: "n4",
-    title: "04",
-    text: "Looks like you're really good at catching butterflies... no wonder you caught my heart so easily. ❤️",
-    accent: "#B27A94",
+    "id": "n4",
+    "title": "04",
+    "text": "Hiiieee Beautiful ❤️",
+    "accent": "#B27A94"
   },
   {
-    id: "n5",
-    title: "05",
-    text: "This butterfly landed in your hands for a moment... my heart chose to stay there forever. 🦋",
-    accent: "#7C8FA6",
-  },
+    "id": "n5",
+    "title": "05",
+    "text": "Happy Birthday to my favorite girl in the world! 🦋✨",
+    "accent": "#7C8FA6"
+  }
 ];
 
 /* ------------------------------- utilities -------------------------------- */
